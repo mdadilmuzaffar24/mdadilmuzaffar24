@@ -48,10 +48,10 @@ I am passionate about turning data into actionable insights and building AI/ML s
 
 | Course Title | Platform | Issued By |
 |--------------|----------|------------|
-| [Machine Learning for All](https://coursera.org/verify/WKHaHtSnTxSJpb6yZqTzwW) | Coursera | University of London |
-| [AI for Everyone](https://coursera.org/verify/P2XtYAUZY4F9TafwXWoEyo) | Coursera | DeepLearning.AI |
+| [Machine Learning for All](https://www.coursera.org/account/accomplishments/verify/9WTXD8TGMZX0) | Coursera | University of London |
+| [AI for Everyone](https://www.coursera.org/account/accomplishments/verify/ZE4VP0X7GBCE) | Coursera | DeepLearning.AI |
 | [Programming for Everybody (Python)](https://coursera.org/verify/Lr2PMRKN8YXHtSaf1z5jSx) | Coursera | University of Michigan |
-| [Data Visualization with Matplotlib](https://coursera.org/verify/8q8UmxWs1uzxFSRHJXyqxo) | Coursera | University of Michigan |
+| [Data Visualization with Matplotlib & Seaborn](https://coursera.org/verify/8q8UmxWs1uzxFSRHJXyqxo) | Coursera | University of Michigan |
 | [Machine Learning (ML-1)](https://coursera.org/verify/4e635HiuLagSn4PdjJy9VG) | Coursera | Stanford University |
 | [Machine Learning & Remote Sensing](https://drive.google.com/file/d/2JkXkyGJmiQe5BrqkWgioQ) | ISRO | IIRS, Dehradun |
 
@@ -96,7 +96,7 @@ I am passionate about turning data into actionable insights and building AI/ML s
 
 **Jamia Hamdard University, New Delhi**  
 🎓 M.Tech – Computer Science & Engineering (Data Science)  
-📅 2023 – Present
+📅 2024 – Present
 
 ---
 
