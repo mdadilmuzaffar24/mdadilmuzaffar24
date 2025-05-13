@@ -23,19 +23,22 @@ I am passionate about turning data into actionable insights and building AI/ML s
 ### 🔹 [Autism Spectrum Disorder Prediction](https://github.com/mdadilmuzaffar24/Autism_Predicition_ML_project)
 > A machine learning project aimed at early detection of Autism Spectrum Disorder using behavioral and psychological patterns.
 
-- **Tech Stack**: Python, Pandas, Scikit-learn, Matplotlib
+- **Tech Stack**: Python, Pandas, Scikit-learn, Matplotlib, SMOTEENN
 - **Model Used**: Logistic Regression, XGBoost, Random Forest
 - **Key Features**:
   - Data preprocessing and feature engineering
   - Model training, testing, and evaluation
+  - Class imbalance handled using SMOTEENN
+  - Hyperparameter tuning using RandomizedSearchCV
   - Result visualization and analysis
+  - Final Best Model: XGBoost with Tuned Hyperparameters, CV ROC AUC: 0.96, Best threshold for highest F-1 Score: 0.90
 
 ---
 
 ### 🔹 [Fake News Detection System](https://github.com/mdadilmuzaffar24/Fake_News_Prediction)
 > NLP-based model to classify news articles as real or fake to combat misinformation.
 
-- **Tech Stack**: Python, Scikit-learn, TF-IDF, NLP
+- **Tech Stack**: Python, Pandas, Numpy, Scikit-learn, TF-IDF, NLP
 - **Model Used**: PassiveAggressiveClassifier, Logistic Regression
 - **Key Features**:
   - Text preprocessing and vectorization
@@ -50,10 +53,10 @@ I am passionate about turning data into actionable insights and building AI/ML s
 |--------------|----------|------------|
 | [Machine Learning for All](https://www.coursera.org/account/accomplishments/verify/9WTXD8TGMZX0) | Coursera | University of London |
 | [AI for Everyone](https://www.coursera.org/account/accomplishments/verify/ZE4VP0X7GBCE) | Coursera | DeepLearning.AI |
-| [Programming for Everybody (Python)](https://coursera.org/verify/Lr2PMRKN8YXHtSaf1z5jSx) | Coursera | University of Michigan |
-| [Data Visualization with Matplotlib & Seaborn](https://coursera.org/verify/8q8UmxWs1uzxFSRHJXyqxo) | Coursera | University of Michigan |
-| [Machine Learning (ML-1)](https://coursera.org/verify/4e635HiuLagSn4PdjJy9VG) | Coursera | Stanford University |
-| [Machine Learning & Remote Sensing](https://drive.google.com/file/d/2JkXkyGJmiQe5BrqkWgioQ) | ISRO | IIRS, Dehradun |
+| [Python for Data Analysis: Pandas & NumPy](https://www.coursera.org/account/accomplishments/verify/0A720BJOB4IA) | Coursera | Coursera Project Network |
+| [Data Visualization with Matplotlib & Seaborn](https://www.coursera.org/account/accomplishments/verify/KK43G9SC3CU2) | Coursera | Coursera Project Network |
+| [Machine Learning (ML-1)](https://www.coursera.org/account/accomplishments/verify/7XIJ42EZPN9Y) | Coursera | Stanford University |
+| [Machine Learning & Remote Sensing](https://drive.google.com/file/d/1ZSuiyCMPSN4ScUl8FOTvp6-PBpkP6ANd/view?usp=sharing) | ISRO | IIRS, Dehradun |
 
 ---
 
@@ -82,7 +85,7 @@ I am passionate about turning data into actionable insights and building AI/ML s
 `Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
 
 **Machine Learning Models**  
-`Logistic Regression` • `SVM` • `Random Forest` • `Passive Aggressive Classifier`
+`Logistic Regression` • `SVM` • `Random Forest` • `Decision Tree` • `XGBoost` • `Passive Aggressive Classifier`
 
 **Tools & Platforms**  
 `Jupyter Notebook` • `VS Code` • `Git & GitHub` • `Power BI`
