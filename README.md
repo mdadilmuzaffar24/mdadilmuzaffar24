@@ -102,8 +102,7 @@ I am passionate about turning data into actionable insights and building AI/ML s
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mdadilmuzaffar24)
-- 🐦 [Twitter](https://twitter.com/mdadilmuzaffar)
+- 🔗 [LinkedIn](www.linkedin.com/in/md-adil-muzaffar)
 - 📧 Email: **adilmuzaffar96@gmail.com**
 
 ---
