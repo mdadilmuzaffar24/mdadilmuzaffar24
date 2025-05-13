@@ -24,7 +24,7 @@ I am passionate about turning data into actionable insights and building AI/ML s
 > A machine learning project aimed at early detection of Autism Spectrum Disorder using behavioral and psychological patterns.
 
 - **Tech Stack**: Python, Pandas, Scikit-learn, Matplotlib
-- **Model Used**: Logistic Regression, SVM, Random Forest
+- **Model Used**: Logistic Regression, XGBoost, Random Forest
 - **Key Features**:
   - Data preprocessing and feature engineering
   - Model training, testing, and evaluation
