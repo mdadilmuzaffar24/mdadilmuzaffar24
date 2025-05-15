@@ -78,20 +78,84 @@ I am passionate about turning data into actionable insights and building AI/ML s
 
 ## 🛠️ Skills & Tools
 
-**Programming & Scripting**  
-`Python` • `SQL` • `Java (Basics)`
+### 👨‍💻 Programming & Scripting
 
-**Data Science & ML**  
-`Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
+* ✅ **Languages**: `Python` (Primary), `SQL`, `Java (Basics)`
+* ✅ Proficient in writing reusable, modular code for data analysis and automation
+* ✅ Familiar with scripting for data pipelines and exploratory workflows
 
-**Machine Learning Models**  
-`Logistic Regression` • `SVM` • `Random Forest` • `Decision Tree` • `XGBoost` • `Passive Aggressive Classifier`
+---
 
-**Tools & Platforms**  
-`Jupyter Notebook` • `VS Code` • `Git & GitHub` • `Power BI`
+### 📊 Data Analysis & Processing
 
-**Cloud & Deployment**  
-`Microsoft Azure` (Basics)
+* 🔹 **Libraries**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `OpenPyXL`
+* 🔹 **Data Handling**:
+
+  * Data cleaning, transformation, wrangling, and feature engineering
+  * Handling missing values, duplicates, outliers, and categorical variables
+* 🔹 **Exploratory Data Analysis (EDA)**:
+
+  * Generating statistical summaries and visual insights
+  * Time series trends and correlation analysis
+
+---
+
+### 🤖 Machine Learning & AI
+
+* 🔸 **Supervised Learning**:
+
+  * `Logistic Regression`, `Decision Tree`, `Random Forest`, `SVM`, `KNN`, `Naive Bayes`
+* 🔸 **Ensemble & Advanced Models**:
+
+  * `XGBoost`, `Gradient Boosting`, `Passive Aggressive Classifier`
+* 🔸 **Unsupervised Learning**:
+
+  * `K-Means`, `Hierarchical Clustering`, `PCA` (Dimensionality Reduction)
+* 🔸 **Model Evaluation**:
+
+  * `Confusion Matrix`, `ROC-AUC`, `Accuracy`, `F1 Score`, `Precision-Recall`, `Cross-validation`
+  * `GridSearchCV` for hyperparameter tuning
+
+---
+
+### 🫠 Deep Learning (Basics)
+
+* 🤖 Basics of `Neural Networks`, `MLP`, backpropagation, activation functions
+* 🤖 Beginner-level familiarity with `TensorFlow` and `Keras`
+
+---
+
+### 🧰 Tools & Platforms
+
+* 🧹 **Development**: `Jupyter Notebook`, `Google Colab`, `VS Code`, `PyCharm`
+* 🧹 **Version Control**: `Git`, `GitHub`
+* 🧹 **Visualization**: `Matplotlib`, `Seaborn`, `Power BI`
+* 🧹 Well-documented workflows using Markdown and Jupyter formatting
+
+---
+
+### ☁️ Cloud & Deployment
+
+* 🌐 **Cloud Platforms**: `Microsoft Azure` (Basics)
+* 🌐 Hands-on with Azure LMS, AI APIs (like Custom Vision), cloud-based notebooks
+* 🌐 Basic understanding of deployment lifecycle and inference pipeline
+
+---
+
+### 📆 Other Skills
+
+* 📟 `LaTeX` for academic writing and project documentation
+* 📊 `MS Excel` for structured data handling, pivot tables, and visualization
+* 📣 Strong communication: technical writing, clean code documentation, and presentation skills
+
+---
+
+### 🧪 Real-World Practice
+
+* 📌 Built multiple end-to-end ML pipelines for classification & prediction
+* 📌 Developed SQL-based dashboards and performance reports from large datasets
+* 📌 Worked with real-world datasets in healthcare, media, and sports (IPL)
+
 
 ---
 
