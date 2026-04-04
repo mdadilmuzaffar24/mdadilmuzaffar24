@@ -1,183 +1,67 @@
-# 👨‍💻 Md Adil Muzaffar
+# Hi there, I'm Md Adil Muzaffar 👋
+### AI Engineer & Data Scientist | Specializing in Generative AI, RAG & Interpretable Deep Learning
 
-🎓 **M.Tech in CSE (Data Science) | Jamia Hamdard University, New Delhi**  
-📌 **Aspiring Data Scientist | ML/DL Enthusiast | AI Learner | Python Programmer**
+I don’t just train machine learning models; I build end-to-end AI systems, automate complex workflows, and ensure model decisions are transparent. Currently an **M.Tech Data Science candidate (Expected 2026)** at Jamia Hamdard University, I am passionate about moving AI out of theoretical notebooks and deploying it into the real world.
 
-Welcome to my GitHub profile!  
-I am passionate about turning data into actionable insights and building AI/ML solutions to solve real-world problems. Here, you'll find a collection of my projects, certifications, and experiences that reflect my journey and growth in the field of Data Science and Artificial Intelligence.
+Beyond building, I am a technical storyteller. I actively share deep learning insights and technical content with my professional network on LinkedIn.
 
----
-
-## 🔍 About Me
-
-- 🔭 Currently pursuing M.Tech in CSE with a specialization in **Data Science**
-- 🌱 Constantly learning about **Machine Learning**, **Deep Learning**, and **AI**
-- 🧠 Enthusiastic about working on projects that combine data with impactful solutions
-- 🏆 Recently offered a position in the **AICTE-Edunet AI Internship Program**
-- 🌐 Actively working on GitHub projects and contributing to the open-source community
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/md-adil-muzaffar) | ✉️ adilmuzaffar96@gmail.com
 
 ---
 
-## 🧠 Projects
+## 🛠️ Tech Stack & Arsenal
 
-### 🔹 [Autism Spectrum Disorder Prediction](https://github.com/mdadilmuzaffar24/Autism_Predicition_ML_project)
-> A machine learning project aimed at early detection of Autism Spectrum Disorder using behavioral and psychological patterns.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- **Tech Stack**: Python, Pandas, Scikit-learn, Matplotlib, SMOTEENN
-- **Model Used**: Logistic Regression, XGBoost, Random Forest
-- **Key Features**:
-  - Data preprocessing and feature engineering
-  - Model training, testing, and evaluation
-  - Class imbalance handled using SMOTEENN
-  - Hyperparameter tuning using RandomizedSearchCV
-  - Result visualization and analysis
-  - Final Best Model: XGBoost with Tuned Hyperparameters, CV ROC AUC: 0.96, Best threshold for highest F-1 Score: 0.90
-
----
-
-### 🔹 [Fake News Detection System](https://github.com/mdadilmuzaffar24/Fake_News_Prediction)
-> NLP-based model to classify news articles as real or fake to combat misinformation.
-
-- **Tech Stack**: Python, Pandas, Numpy, Scikit-learn, TF-IDF, NLP
-- **Model Used**: PassiveAggressiveClassifier, Logistic Regression
-- **Key Features**:
-  - Text preprocessing and vectorization
-  - Model training and performance metrics
-  - Achieved >95% accuracy
+* **AI & Deep Learning:** AI Agents, LangChain, Generative AI, RAG, LLMs, CNNs, Transformers
+* **Trustworthy AI:** Explainable AI (XAI), SHAP, Grad-CAM
+* **Data Engineering & APIs:** Google Workspace APIs, Data Preprocessing, EDA, SMOTETomek
+* **Cloud & Deployment:** Groq, Azure AI, Streamlit
 
 ---
 
-## 🎓 Certifications
+## 🚀 Featured Projects
 
-| Course Title | Platform | Issued By |
-|--------------|----------|------------|
-| [Machine Learning for All](https://www.coursera.org/account/accomplishments/verify/9WTXD8TGMZX0) | Coursera | University of London |
-| [AI for Everyone](https://www.coursera.org/account/accomplishments/verify/ZE4VP0X7GBCE) | Coursera | DeepLearning.AI |
-| [Python for Data Analysis: Pandas & NumPy](https://www.coursera.org/account/accomplishments/verify/0A720BJOB4IA) | Coursera | Coursera Project Network |
-| [Data Visualization with Matplotlib & Seaborn](https://www.coursera.org/account/accomplishments/verify/KK43G9SC3CU2) | Coursera | Coursera Project Network |
-| [Machine Learning (ML-1)](https://www.coursera.org/account/accomplishments/verify/7XIJ42EZPN9Y) | Coursera | Stanford University |
-| [Machine Learning & Remote Sensing](https://drive.google.com/file/d/1ZSuiyCMPSN4ScUl8FOTvp6-PBpkP6ANd/view?usp=sharing) | ISRO | IIRS, Dehradun |
+### 🤖 [AI Automated Financial & Ledger Agents](Link_To_Your_Repo)
+Engineered autonomous AI agents using **LangChain** and LLMs to fully automate financial data entry and bookkeeping workflows. Built secure data pipelines utilizing Google Workspace APIs to fetch unstructured invoice documents directly from Gmail and Drive, extracting critical parameters to dynamically maintain real-time ledgers in Google Sheets.
 
----
+### 🔍 [Interpretable Deepfake Detection Framework](Link_To_Your_Repo) *(M.Tech Research)*
+Authored an advanced research framework (currently under IEEE review) leveraging Transfer-Learned CNNs to identify manipulated media. Integrated Explainable AI (XAI) techniques, specifically **Grad-CAM** and **SHAP**, to provide visual and mathematical transparency for model decisions.
 
-## 💼 Internship Experience
+### 💬 [AI Document Chatbot (RAG Pipeline)](Link_To_Your_Repo) | [Live App](Link_To_Your_App)
+Built and deployed an intelligent document chatbot utilizing modern LLMs and vector databases. Engineered **Retrieval-Augmented Generation (RAG)** mechanisms for high-accuracy, context-aware responses. Deployed the interactive web application using **Streamlit** and integrated cloud-based **Groq** APIs.
 
-### 📜 **AICTE – Edunet Foundation Internship Offer**
-- **Role**: Intern – AI Foundations
-- **Duration**: 4 weeks
-- **Topics Covered**:
-  - Supervised & Unsupervised Learning
-  - Deep Learning and Neural Networks
-  - Azure Custom Vision and Generative AI
-- **Mode**: Virtual (Microsoft Azure Labs & LMS)
-- **Status**: Offer Received ✅
-
-📄 [View Offer Letter (PDF)](https://github.com/mdadilmuzaffar24/mdadilmuzaffar24/blob/main/assets/offer_letter.pdf)
+### 🧠 [Autism Spectrum Disorder (ASD) Prediction](Link_To_Your_Repo)
+Developed a diagnostic machine learning model using demographic data and AQ-10 questionnaires. Mitigated severe class imbalance using **SMOTETomek** and achieved a Cross-Validation ROC AUC of 0.96 using optimized XGBoost algorithms, prioritizing high recall for reliable healthcare screening.
 
 ---
 
-## 🛠️ Skills & Tools
+## 💼 Experience
 
-### 👨‍💻 Programming & Scripting
-
-* ✅ **Languages**: `Python` (Primary), `SQL`, `Java (Basics)`
-* ✅ Proficient in writing reusable, modular code for data analysis and automation
-* ✅ Familiar with scripting for data pipelines and exploratory workflows
-
----
-
-### 📊 Data Analysis & Processing
-
-* 🔹 **Libraries**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `OpenPyXL`
-* 🔹 **Data Handling**:
-
-  * Data cleaning, transformation, wrangling, and feature engineering
-  * Handling missing values, duplicates, outliers, and categorical variables
-* 🔹 **Exploratory Data Analysis (EDA)**:
-
-  * Generating statistical summaries and visual insights
-  * Time series trends and correlation analysis
+* **Artificial Intelligence Intern** @ *Edunet Foundation (Microsoft & AICTE)* | Apr 2025 – May 2025
+  * Engineered a predictive Capstone Project for Autism Spectrum Disorder and implemented supervised/unsupervised models utilizing Azure Custom Vision.
+* **Data Science Intern** @ *Internshala Trainings* | Jun 2023 – Oct 2023
+  * Developed predictive machine learning models, streamlined data preprocessing pipelines, and created dynamic visual dashboards.
 
 ---
 
-### 🤖 Machine Learning & AI
+## 📜 Major Certifications
+* **Application of AI/ML for Crop Acreage Mapping** — ISRO (IIRS)
+* **Deep Learning Specialization** — DeepLearning.AI *(4/5 Courses Completed, including CNNs)*
+* **IBM Data Science Professional Certificate** — Coursera
+* **Machine Learning Specialization** — Stanford University
+* **Generative AI for Data Science** — Microsoft
 
-* 🔸 **Supervised Learning**:
+<br>
 
-  * `Logistic Regression`, `Decision Tree`, `Random Forest`, `SVM`, `KNN`, `Naive Bayes`
-* 🔸 **Ensemble & Advanced Models**:
-
-  * `XGBoost`, `Gradient Boosting`, `Passive Aggressive Classifier`
-* 🔸 **Unsupervised Learning**:
-
-  * `K-Means`, `Hierarchical Clustering`, `PCA` (Dimensionality Reduction)
-* 🔸 **Model Evaluation**:
-
-  * `Confusion Matrix`, `ROC-AUC`, `Accuracy`, `F1 Score`, `Precision-Recall`, `Cross-validation`
-  * `GridSearchCV` for hyperparameter tuning
-
----
-
-### 🫠 Deep Learning (Basics)
-
-* 🤖 Basics of `Neural Networks`, `MLP`, backpropagation, activation functions
-* 🤖 Beginner-level familiarity with `TensorFlow` and `Keras`
-
----
-
-### 🧰 Tools & Platforms
-
-* 🧹 **Development**: `Jupyter Notebook`, `Google Colab`, `VS Code`, `PyCharm`
-* 🧹 **Version Control**: `Git`, `GitHub`
-* 🧹 **Visualization**: `Matplotlib`, `Seaborn`, `Power BI`
-* 🧹 Well-documented workflows using Markdown and Jupyter formatting
-
----
-
-### ☁️ Cloud & Deployment
-
-* 🌐 **Cloud Platforms**: `Microsoft Azure` (Basics)
-* 🌐 Hands-on with Azure LMS, AI APIs (like Custom Vision), cloud-based notebooks
-* 🌐 Basic understanding of deployment lifecycle and inference pipeline
-
----
-
-### 📆 Other Skills
-
-* 📟 `LaTeX` for academic writing and project documentation
-* 📊 `MS Excel` for structured data handling, pivot tables, and visualization
-* 📣 Strong communication: technical writing, clean code documentation, and presentation skills
-
----
-
-### 🧪 Real-World Practice
-
-* 📌 Built multiple end-to-end ML pipelines for classification & prediction
-* 📌 Developed SQL-based dashboards and performance reports from large datasets
-* 📌 Worked with real-world datasets in healthcare, media, and sports (IPL)
-
-
----
-
-## 📚 Education
-
-**Jamia Hamdard University, New Delhi**  
-🎓 M.Tech – Computer Science & Engineering (Data Science)  
-📅 2024 – Present
-
----
-
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn](www.linkedin.com/in/md-adil-muzaffar)
-- 📧 Email: **adilmuzaffar96@gmail.com**
-
----
-
-## 📌 Quote I Live By
-
-> “Data is the new oil, but insight is the spark.”
-
-Thanks for visiting! Don't forget to ⭐️ my projects if you find them useful 😊
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdadilmuzaffar24&show_icons=true&theme=radical" alt="Adil's GitHub Stats" />
+</p>
 
 
