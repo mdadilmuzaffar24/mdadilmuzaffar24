@@ -1,7 +1,33 @@
+<!--
+SLOT CHECKLIST (delete this block when finished)
+Every image below is already wired to ./assets/<file>. Upload the whole assets folder once and everything fills in.
+If you prefer filling slots by hand, each "SLOT nn" comment names the exact file for the image tag right below it.
+  01  hero.svg                   1600x520   Top banner
+  02  stats.svg                  1200x170   Key numbers strip
+  03  divider.svg                1200x22    Thin divider line
+  04  h-featured.svg             1200x108   Heading: Featured product
+  05  azol-landing-preview.png   1146x640   AZOL landing page screenshot (PNG)
+  06  pipeline.svg               1200x150   Plan > Research > Analyze > Execute > Verify
+  07  h-research.svg             1200x108   Heading: Published research
+  08  card-research.svg          1200x330   Deepfake research card
+  09  h-projects.svg             1200x108   Heading: More projects
+  10  card-ledger.svg            584x268    Project card 1 (AI Ledger Agent)
+  11  card-rag.svg               584x268    Project card 2 (Document Chatbot)
+  12  card-asd.svg               584x268    Project card 3 (Autism screening)
+  13  card-news.svg              584x268    Project card 4 (Fake News)
+  14  h-stack.svg                1200x108   Heading: Tech stack
+  15  stack.svg                  1200 wide  Tech stack panel
+  16  h-experience.svg           1200x108   Heading: Experience
+  17  h-credentials.svg          1200x108   Heading: Credentials
+  18  h-community.svg            1200x108   Heading: Community
+  19  footer.svg                 1600x300   Closing banner
+-->
+
 <div align="center">
 
+<!-- === SLOT 01 of 19 | hero.svg | 1600x520 | Top banner -->
 <a href="https://azol-ai.vercel.app">
-  <img src="./assets/readme-banner.png" alt="AZOL AI V1.0: Your AI workforce. Working as one. Built by Md Adil Muzaffar" width="100%">
+  <img src="./assets/hero.svg" alt="Md Adil Muzaffar, AI/ML engineer. Creator of AZOL AI V1.0, a live multi-agent AI operating system." width="100%">
 </a>
 
 <br>
@@ -11,24 +37,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-adil-muzaffar)
 [![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adilmuzaffar96@gmail.com)
 
-![Open to work](https://img.shields.io/badge/Open_to_work-AI_%2F_GenAI_Engineer_%C2%B7_Immediate_joiner-20D9A0?style=flat-square&labelColor=0D1117)
-
 <br>
 
-<table>
-  <tr>
-    <td align="center" width="140"><h3>8</h3><sub>LangGraph nodes<br>in AZOL AI</sub></td>
-    <td align="center" width="140"><h3>98.42%</h3><sub>deepfake detection<br>accuracy</sub></td>
-    <td align="center" width="140"><h3>0.9989</h3><sub>ROC-AUC<br>(published)</sub></td>
-    <td align="center" width="140"><h3>280+</h3><sub>page software<br>design document</sub></td>
-    <td align="center" width="140"><h3>4+</h3><sub>live AI<br>applications</sub></td>
-    <td align="center" width="140"><h3>10+</h3><sub>certifications<br>incl. MCP, LangGraph</sub></td>
-  </tr>
-</table>
+<!-- === SLOT 02 of 19 | stats.svg | 1200x170 | Key numbers strip -->
+<img src="./assets/stats.svg" alt="Key numbers: 8 LangGraph nodes, 98.42% deepfake detection accuracy, 0.9989 ROC-AUC, 280+ page design document, 4+ live AI applications, 10+ certifications" width="100%">
+
+<!-- === SLOT 03 of 19 | divider.svg | 1200x22 | Thin divider line -->
+<img src="./assets/divider.svg" alt="" width="100%">
 
 </div>
-
-<br>
 
 I am **Md Adil Muzaffar**, an AI/ML engineer focused on agentic AI and GenAI. I build AI systems end to end: agent design, retrieval, backend APIs, frontend, authentication, deployment and documentation. My flagship project, **AZOL AI V1.0**, is a multi-agent platform that I designed, built and deployed solo. I also have a published deepfake-detection framework (my M.Tech thesis) and several deployed LLM applications.
 
@@ -41,23 +58,28 @@ I am **Md Adil Muzaffar**, an AI/ML engineer focused on agentic AI and GenAI. I 
 | 📄 **Published** | Interpretable Deepfake Detection Framework: 98.42% accuracy, 0.9989 ROC-AUC |
 | 🔭 **Next** | AZOL AI V2.0: autonomous data intelligence (database connectors, NL-to-SQL, live dashboards) |
 | 🎯 **Looking for** | AI Engineer · GenAI / LLM Engineer · AI Agent Engineer · Applied ML Engineer |
-| 📍 **Based in** | Patna, India. Open to relocation |
+| 📍 **Based in** | Patna, India. Open to relocation. Immediate joiner |
 
 <br>
 
-## ✦ Featured: AZOL AI V1.0
+<!-- === SLOT 04 of 19 | h-featured.svg | 1200x108 | Heading: Featured product -->
+<img src="./assets/h-featured.svg" alt="Featured product: AZOL AI V1.0, live in production" width="100%">
 
 **An autonomous multi-agent AI operating system.** Give it a goal in plain language. It plans, researches, analyzes, executes and verifies the work, then streams back a result you can inspect.
 
 <div align="center">
 
+<!-- === SLOT 05 of 19 | azol-landing-preview.png | 1146x640 | AZOL landing page screenshot (PNG) -->
 <a href="https://azol-ai.vercel.app">
   <img src="./assets/azol-landing-preview.png" alt="AZOL AI landing page: Your AI workforce. Working as one." width="92%">
 </a>
 
 <br><br>
 
-**PLAN → RESEARCH → ANALYZE → EXECUTE → VERIFY**
+<!-- === SLOT 06 of 19 | pipeline.svg | 1200x150 | Plan > Research > Analyze > Execute > Verify -->
+<img src="./assets/pipeline.svg" alt="Plan, Research, Analyze, Execute, Verify: the AZOL AI execution pipeline" width="100%">
+
+<br>
 
 [**Launch the live app**](https://azol-ai.vercel.app) · [**Source code**](https://github.com/mdadilmuzaffar24/AZOL-AI) · [**Portfolio case study**](https://md-adil-muzaffar-portfolia.lovable.app)
 
@@ -133,86 +155,45 @@ flowchart TD
 
 <br>
 
-![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=langchain&logoColor=61D8FF)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=20D9A0)
-![React](https://img.shields.io/badge/React_18-0D1117?style=flat-square&logo=react&logoColor=61D8FF)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=A78BFA)
-![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=60A5FA)
-![FAISS](https://img.shields.io/badge/FAISS-0D1117?style=flat-square&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_Llama_3.x-0D1117?style=flat-square&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-0D1117?style=flat-square&logo=render&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-0D1117?style=flat-square&logoColor=20D9A0)
+<!-- === SLOT 07 of 19 | h-research.svg | 1200x108 | Heading: Published research -->
+<img src="./assets/h-research.svg" alt="Published research: peer-reviewed, with a live app" width="100%">
+
+<!-- === SLOT 08 of 19 | card-research.svg | 1200x330 | Deepfake research card -->
+<img src="./assets/card-research.svg" alt="Interpretable Deepfake Detection Framework: MTCNN, Xception, Grad-CAM and SHAP. 98.42% accuracy, 0.9989 ROC-AUC, 10,000+ training images, tested on FaceForensics++" width="100%">
+
+<div align="center">
+
+[**Read the paper (DOI)**](https://doi.org/10.5281/zenodo.20470289) · [**Try the live app**](https://universal-deepfake-forensics.streamlit.app) · [**Source code**](https://github.com/mdadilmuzaffar24/Interpretable-Deepfake-Detection)
+
+</div>
 
 <br>
 
-## 📄 Published Research
+<!-- === SLOT 09 of 19 | h-projects.svg | 1200x108 | Heading: More projects -->
+<img src="./assets/h-projects.svg" alt="More projects, built end to end" width="100%">
 
-**Interpretable Deepfake Detection Framework** · M.Tech thesis, published in CPIJR
+<div align="center">
 
-Most deepfake detectors give a verdict and nothing else. This one shows *why*. An MTCNN face detector feeds a fine-tuned Xception backbone, and Grad-CAM heatmaps with SHAP attributions highlight the facial regions that drove each decision.
+<a href="https://github.com/mdadilmuzaffar24/AI-Ledger-Agent"><img src="./assets/card-ledger.svg" alt="AI Financial and Ledger Agent: about 80% less manual invoice entry. LangChain, Llama 3.1 on Groq, Pydantic, Streamlit" width="49%"></a><!-- SLOT 10 of 19 | card-ledger.svg | 584x268 | Project card 1 (AI Ledger Agent) -->
+<a href="https://github.com/mdadilmuzaffar24/AI-Document-Chatbot"><img src="./assets/card-rag.svg" alt="AI Document Chatbot with RAG: PDF, Word and text. LangChain, FAISS, MiniLM, Streamlit" width="49%"></a><!-- SLOT 11 of 19 | card-rag.svg | 584x268 | Project card 2 (Document Chatbot) -->
 
-| Accuracy | ROC-AUC | Training data | Tested on |
-|:---:|:---:|:---:|:---:|
-| **98.42%** | **0.9989** | 10,000+ images from Celeb-DF and DFDC | FaceForensics++ (cross-dataset) |
+<a href="https://github.com/mdadilmuzaffar24/Autism_Predicition_ML_project"><img src="./assets/card-asd.svg" alt="Autism Spectrum Disorder Screening: 0.96 cross-validated ROC-AUC. XGBoost, scikit-learn, SMOTETomek, SHAP" width="49%"></a><!-- SLOT 12 of 19 | card-asd.svg | 584x268 | Project card 3 (Autism screening) -->
+<a href="https://github.com/mdadilmuzaffar24/Fake_News_Prediction"><img src="./assets/card-news.svg" alt="Fake News Detection: 98.4% accuracy with Linear SVM. TF-IDF, scikit-learn" width="49%"></a><!-- SLOT 13 of 19 | card-news.svg | 584x268 | Project card 4 (Fake News) -->
 
-[Read the paper (DOI)](https://doi.org/10.5281/zenodo.20470289) · [Try the live app](https://universal-deepfake-forensics.streamlit.app) · [Source code](https://github.com/mdadilmuzaffar24/Interpretable-Deepfake-Detection)
-
-<br>
-
-## 🧪 More Projects
-
-| Project | What it does | Result | Stack |
-|---|---|---|---|
-| 🧾 [**AI Financial & Ledger Agent**](https://github.com/mdadilmuzaffar24/AI-Ledger-Agent) | Reads vendor invoices from Gmail over OAuth 2.0, extracts Pydantic-validated JSON and posts it to a live Google Sheets ledger. A custom pdfplumber page router keeps long invoices inside the context window | **~80% less manual invoice entry** | LangChain, Llama 3.1 (Groq), Google Workspace APIs, Streamlit |
-| 💬 [**AI Document Chatbot (RAG)**](https://github.com/mdadilmuzaffar24/AI-Document-Chatbot) | Question answering over PDF, Word and text files, with Map-Reduce summarisation for documents longer than the model's token limit | Low-latency answers with Llama 3.1 on Groq | LangChain, FAISS, MiniLM, Streamlit |
-| 🧬 [**Autism Spectrum Disorder Screening**](https://github.com/mdadilmuzaffar24/Autism_Predicition_ML_project) | Early-screening ML pipeline built during my Edunet × Microsoft internship, using SMOTETomek for class imbalance and threshold tuning | **0.96 CV ROC-AUC**, 0.86 test AUC | XGBoost, scikit-learn, SHAP |
-| 📰 [**Fake News Detection**](https://github.com/mdadilmuzaffar24/Fake_News_Prediction) | NLP pipeline with regex cleaning, Porter stemming and TF-IDF, benchmarked across 5 classifiers | **98.4% accuracy**, 0.98 F1 (Linear SVM) | scikit-learn, TF-IDF |
+</div>
 
 <br>
 
-## 🛠️ Tech Stack
+<!-- === SLOT 14 of 19 | h-stack.svg | 1200x108 | Heading: Tech stack -->
+<img src="./assets/h-stack.svg" alt="Tech stack: agents, ML, backend, frontend, cloud" width="100%">
 
-**Agents & LLMs**<br>
-![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=langchain&logoColor=61D8FF)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=20D9A0)
-![RAG](https://img.shields.io/badge/RAG-0D1117?style=flat-square&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-0D1117?style=flat-square&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-0D1117?style=flat-square&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0D1117?style=flat-square&logoColor=white)
-
-**Machine Learning & Deep Learning**<br>
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD43B)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![Keras](https://img.shields.io/badge/Keras-0D1117?style=flat-square&logo=keras&logoColor=D00000)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![XGBoost](https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
-![SHAP](https://img.shields.io/badge/SHAP_%2B_Grad--CAM-0D1117?style=flat-square&logoColor=white)
-
-**Backend, Data & Deployment**<br>
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=20D9A0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=60A5FA)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=DC382D)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0_%2B_JWT-0D1117?style=flat-square&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_AI-0D1117?style=flat-square&logo=microsoftazure&logoColor=0089D6)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-
-**Frontend**<br>
-![React](https://img.shields.io/badge/React_18-0D1117?style=flat-square&logo=react&logoColor=61D8FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+<!-- === SLOT 15 of 19 | stack.svg | 1200 wide | Tech stack panel -->
+<img src="./assets/stack.svg" alt="Tech stack: LangGraph, LangChain, RAG, MCP, Groq, Ollama, FAISS, Python, PyTorch, TensorFlow, Keras, scikit-learn, XGBoost, OpenCV, FastAPI, PostgreSQL, Redis, Docker, React, Vite, Tailwind, Vercel, Render, Neon, Azure AI, Git" width="100%">
 
 <br>
 
-## 💼 Experience
+<!-- === SLOT 16 of 19 | h-experience.svg | 1200x108 | Heading: Experience -->
+<img src="./assets/h-experience.svg" alt="Experience, 2023 to present" width="100%">
 
 **Founder & Independent AI Systems Engineer, AZOL AI** · *2026 to present, self-directed*<br>
 Designed, built, deployed and documented a production multi-agent platform end to end: LangGraph orchestration, RAG, security, a React workspace, cloud deployment and a 280+ page design document.
@@ -224,6 +205,12 @@ Built the XGBoost autism-screening model (0.96 CV ROC-AUC) and deployed an image
 Built a weather-forecast model in Python, analysed IPL ball-by-ball data with SQL for an auction-strategy simulation, and built a Tableau sales dashboard.
 
 <br>
+
+<!-- === SLOT 17 of 19 | h-credentials.svg | 1200x108 | Heading: Credentials -->
+<img src="./assets/h-credentials.svg" alt="Education and credentials: M.Tech and 10+ certifications" width="100%">
+
+**M.Tech, Computer Science Engineering (Data Science)**, Jamia Hamdard University, New Delhi · *2024 to 2026* · CGPA 9.0+/10<br>
+**B.Tech, Electrical & Electronics Engineering**, MACET, Patna · *2018 to 2022* · CGPA 7.6/10
 
 <details>
 <summary><b>🎓 Certifications (10+)</b></summary>
@@ -247,9 +234,10 @@ Built a weather-forecast model in Python, analysed IPL ball-by-ball data with SQ
 
 <br>
 
-## 🎥 Community
+<!-- === SLOT 18 of 19 | h-community.svg | 1200x108 | Heading: Community -->
+<img src="./assets/h-community.svg" alt="Community: AI Updates on LinkedIn and Instagram" width="100%">
 
-I run the **AI Updates** series on LinkedIn and Instagram, explaining agentic AI and frontier-model research with verified data points to an audience of 1,500+ followers.
+I run the **AI Updates** series on LinkedIn and Instagram, explaining agentic AI and frontier-model research with verified data points to an audience of 1,100+ followers.
 
 <br>
 
@@ -259,9 +247,14 @@ I run the **AI Updates** series on LinkedIn and Instagram, explaining agentic AI
 
 I am looking for AI Engineer, GenAI Engineer and AI Agent Engineer roles, and I can join immediately.
 
-[**LinkedIn**](https://www.linkedin.com/in/md-adil-muzaffar) · [**Portfolio**](https://md-adil-muzaffar-portfolia.lovable.app) · [**adilmuzaffar96@gmail.com**](mailto:adilmuzaffar96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-adil-muzaffar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-20D9A0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://md-adil-muzaffar-portfolia.lovable.app)
+[![Email](https://img.shields.io/badge/adilmuzaffar96%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adilmuzaffar96@gmail.com)
 
-<sub>*"I don't just train models. I engineer and ship AI systems to production."*</sub>
+<br>
+
+<!-- === SLOT 19 of 19 | footer.svg | 1600x300 | Closing banner -->
+<img src="./assets/footer.svg" alt="I don't just train models. I engineer and ship AI systems to production. Md Adil Muzaffar, AZOL AI." width="100%">
 
 <sub>If AZOL AI or any of these projects is useful to you, a ⭐ on the repo is appreciated.</sub>
 
