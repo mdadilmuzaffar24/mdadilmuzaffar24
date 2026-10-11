@@ -27,7 +27,7 @@ If you prefer filling slots by hand, each "SLOT nn" comment names the exact file
 
 <!-- === SLOT 01 of 19 | hero.svg | 1600x520 | Top banner -->
 <a href="https://azol-ai.vercel.app">
-  <img src="./assets/hero.svg" alt="Md Adil Muzaffar, AI/ML engineer. Creator of AZOL AI V1.0, a live multi-agent AI operating system." width="100%">
+  <img src="./hero.svg" alt="Md Adil Muzaffar, AI/ML engineer. Creator of AZOL AI V1.0, a live multi-agent AI operating system." width="100%">
 </a>
 
 <br>
