@@ -214,7 +214,7 @@ Built a weather-forecast model in Python, analysed IPL ball-by-ball data with SQ
 <!-- === SLOT 18 of 19 | h-community.svg | 1200x108 | Heading: Community -->
 <img src="./h-community.svg" alt="Community: AI Updates on LinkedIn and Instagram" width="100%">
 
-I run the **AI Updates** series on LinkedIn and Instagram, explaining agentic AI and frontier-model research with verified data points to an audience of 1,100+ followers.
+I run the **AI Updates** series on LinkedIn and Instagram, explaining agentic AI and frontier-model research with verified data points to an audience of 1,500+ followers.
 
 <br>
 
